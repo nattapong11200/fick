@@ -33,4 +33,5 @@
       curl_close ($ch);
    }
    exit;
+echo "OK" ;
 ?>
